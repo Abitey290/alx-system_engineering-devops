@@ -1,1 +1,1 @@
-This projext is about shell basics
+This project is about shell basics
